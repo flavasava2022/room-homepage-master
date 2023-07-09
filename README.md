@@ -3,7 +3,7 @@
 ![Design preview for the Room homepage coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
-- Live Site URL: [REST Countries API with color theme switcher
+- Live Site URL: [Room homepage
 ](https://flavasava2022.github.io/room-homepage-master/)
 
 Thanks for checking out this front-end coding challenge.
